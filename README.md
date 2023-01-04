@@ -3,7 +3,7 @@ A game where you rotate tiles in a hexagonal grid to connect all the pipes.
 There will always be at least 1 valid solution. There will never be any loops in a valid solution. This puzzle can be solved through logical deduction similarly to minesweeper.
 
 
-To play this game save the .pde files in a folder called simple_hex_pipes and then open with processing 3.x.x or download an export.
+To play this game save the .pde files in a folder called simple_hex_pipes and then open with processing 3.x.x
 
 
 

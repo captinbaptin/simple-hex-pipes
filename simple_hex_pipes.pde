@@ -1,3 +1,13 @@
+/*
+WARNING
+this code was not written with sharing in mind
+the variable/fucntion names are confusing (mostly just in this file)
+the operation of the code may also be confusing
+there may also remnants of old features
+*/
+
+
+
 float sqrt3div2=0.86602540378443864676372317075294;
 
 int xpos=50, ypos=50, hexSize=50;
